@@ -15,6 +15,7 @@ public class Main {
             System.out.println("7 Return Book");
             System.out.println("8 Search Book");
             System.out.println("9 Exit");
+            System.out.print("Enter your Choice :");
 
             int ch = sc.nextInt();
 
