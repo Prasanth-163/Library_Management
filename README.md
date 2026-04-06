@@ -38,14 +38,14 @@ Menu
 ![Menu](library-management/Screenshots/menu.png)
 
 View Books
-![View](Screenshots/view books.png)
+![View](library-management/Screenshots/view_books.png)
 
 Issue Book
-![Issue](Screenshots/issue.png)
+![Issue](library-management/Screenshots/issue.png)
 
 After Issue + View
-![After Issue](Screenshots/after issue_view books.png)
+![After Issue](library-management/Screenshots/after_issue_view_books.png)
 
 Return Book
-![Return](Screenshots/return.png)
+![Return](library-management/Screenshots/return.png)
 
