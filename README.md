@@ -33,15 +33,19 @@ java -cp ".;lib/mysql-connector-j-9.6.0.jar" Main
 
 
 ## Screenshots
+
 Menu
-![Menu](library-management/screenshots/menu.png)
+![Menu](Screenshots/menu.png)
 
 View Books
-![View](library-management/screenshots/viewbooks.png)
+![View](Screenshots/view books.png)
 
 Issue Book
-![Issue](library-management/screenshots/issue.png)
+![Issue](Screenshots/issue.png)
+
+After Issue + View
+![After Issue](Screenshots/after issue_view books.png)
 
 Return Book
-![Return](library-management/screenshots/return.png)
+![Return](Screenshots/return.png)
 
