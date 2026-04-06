@@ -35,7 +35,7 @@ java -cp ".;lib/mysql-connector-j-9.6.0.jar" Main
 ## Screenshots
 
 Menu
-![Menu](Screenshots/menu.png)
+![Menu](library-management/Screenshots/menu.png)
 
 View Books
 ![View](Screenshots/view books.png)
