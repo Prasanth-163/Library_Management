@@ -43,8 +43,8 @@ View Books
 Issue Book
 ![Issue](library-management/Screenshots/issue.png)
 
-After Issue + View
-![After Issue](library-management/Screenshots/after_issue_view_books.png)
+After Issued then View books
+![After Issued](library-management/Screenshots/after_issue_view_books.png)
 
 Return Book
 ![Return](library-management/Screenshots/return.png)
